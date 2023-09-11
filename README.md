@@ -29,4 +29,4 @@ Included screenshots shows the usage and the deployed URL.
 ![alt text](assets/Password-generat-06.png)
 ![alt text](assets/Password-generat-07.png)
 
-[Deploy URL]()
+[Generate a password application URL](https://mahmoudahmed0528.github.io/Passord-Generator/)
